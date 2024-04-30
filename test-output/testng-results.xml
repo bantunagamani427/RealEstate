@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-29T12:12:25 IST" name="Default suite" finished-at="2024-04-29T12:13:14 IST" duration-ms="48407">
+    <groups>
+    </groups>
+    <test started-at="2024-04-29T12:12:25 IST" name="Default test" finished-at="2024-04-29T12:13:14 IST" duration-ms="48407">
+      <class name="RealEstate_Functionalities.TC_001_Products">
+        <test-method signature="productsTest()[pri:0, instance:RealEstate_Functionalities.TC_001_Products@27462a88]" started-at="2024-04-29T12:12:25 IST" name="productsTest" finished-at="2024-04-29T12:13:14 IST" duration-ms="48373" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productsTest -->
+      </class> <!-- RealEstate_Functionalities.TC_001_Products -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
